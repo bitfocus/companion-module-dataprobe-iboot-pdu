@@ -1,0 +1,34 @@
+{
+	"name": "dataprobe-iboot-pdu",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [
+		"dataprobe",
+		"iboot",
+		"pdu",
+		"outlet"
+	],
+	"manufacturer": "Dataprobe",
+	"product": [
+		"iBoot PDU"
+	],
+	"shortname": "iboot-pdu",
+	"description": "Companion module for Dataprobe iBoot PDU",
+	"main": "src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Joseph Adams <josephdadams@gmail.com>",
+	"license": "MIT",
+	"homepage": "https://github.com/bitfocus/companion-module-dataprobe-iboot-pdu#readme",
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-dataprobe-iboot-pdu/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-dataprobe-iboot-pdu.git"
+	},
+	"dependencies": {
+		"axios": "^0.25.0"
+	}
+}
