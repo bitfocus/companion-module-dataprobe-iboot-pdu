@@ -29,6 +29,6 @@
 		"url": "git+https://github.com/bitfocus/companion-module-dataprobe-iboot-pdu.git"
 	},
 	"dependencies": {
-		"axios": "^0.25.0"
+		"axios": "^1.6.0"
 	}
 }
